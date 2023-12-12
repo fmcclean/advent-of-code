@@ -9,3 +9,10 @@
 - Day 3
   - [Part 1](./day_03a.py)
   - [Part 2](./day_3b.py)
+- Day 4
+  - [Part 1](./day_04a.py)
+  - [Part 2](./day_04b.py)
+- Day 5
+  - [Part 1](./day_05a.py)
+- Day 6
+  - [Part 1](./day_06a.py)
